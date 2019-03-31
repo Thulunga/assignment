@@ -75,8 +75,8 @@ int main()
 {
 	int i,j,total_cost,c,x,y;
   fp = fopen("output.txt","w");
-  fs = fopen("input.txt","r");
-  fs1 = fopen("input.txt","r");
+  fs = fopen("input1.txt","r");
+  fs1 = fopen("input1.txt","r");
 
 	//printf("\nEnter number of vertices:");
 
